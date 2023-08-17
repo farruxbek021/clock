@@ -1,0 +1,14 @@
+@import url(font.css);
+
+
+body{
+    font-family: 'Alarmclock';
+    background: #000;
+    color: #fff;
+}
+
+.time{
+    font-size: 150px;
+    color: red;
+    text-shadow:0 0 15px rgb(250, 26, 26);
+}
